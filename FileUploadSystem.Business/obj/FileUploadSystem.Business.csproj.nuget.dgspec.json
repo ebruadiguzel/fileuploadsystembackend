@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Business/FileUploadSystem.Business.csproj": {}
+  },
+  "projects": {
+    "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Business/FileUploadSystem.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Business/FileUploadSystem.Business.csproj",
+        "projectName": "FileUploadSystem.Business",
+        "projectPath": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Business/FileUploadSystem.Business.csproj",
+        "packagesPath": "/Users/ebruadiguzel/.nuget/packages/",
+        "outputPath": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ebruadiguzel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/FileUploadSystem.Domain.csproj": {
+                "projectPath": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/FileUploadSystem.Domain.csproj"
+              },
+              "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/FileUploadSystem.Infrastructure.csproj": {
+                "projectPath": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/FileUploadSystem.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/FileUploadSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/FileUploadSystem.Domain.csproj",
+        "projectName": "FileUploadSystem.Domain",
+        "projectPath": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/FileUploadSystem.Domain.csproj",
+        "packagesPath": "/Users/ebruadiguzel/.nuget/packages/",
+        "outputPath": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ebruadiguzel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/FileUploadSystem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/FileUploadSystem.Infrastructure.csproj",
+        "projectName": "FileUploadSystem.Infrastructure",
+        "projectPath": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/FileUploadSystem.Infrastructure.csproj",
+        "packagesPath": "/Users/ebruadiguzel/.nuget/packages/",
+        "outputPath": "/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ebruadiguzel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

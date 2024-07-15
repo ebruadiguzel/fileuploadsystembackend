@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="13.0.1" />
+      <PackageReference Include="FluentValidation" Version="11.9.2" />
+      <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="11.9.1" />
+      <PackageReference Include="MediatR" Version="12.3.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Users\Profiles\" />
+      <Folder Include="Users\Queries\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\FileUploadSystem.Domain\FileUploadSystem.Domain.csproj" />
+      <ProjectReference Include="..\FileUploadSystem.Infrastructure\FileUploadSystem.Infrastructure.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Reference Include="Microsoft.AspNetCore.Http.Abstractions">
+        <HintPath>..\..\..\..\..\usr\local\share\dotnet\shared\Microsoft.AspNetCore.App\8.0.1\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>
+      </Reference>
+      <Reference Include="Microsoft.AspNetCore.Http.Features">
+        <HintPath>..\..\..\..\..\usr\local\share\dotnet\shared\Microsoft.AspNetCore.App\8.0.1\Microsoft.AspNetCore.Http.Features.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+</Project>

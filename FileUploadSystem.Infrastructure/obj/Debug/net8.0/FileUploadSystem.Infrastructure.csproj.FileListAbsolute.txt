@@ -1,0 +1,15 @@
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/bin/Debug/net8.0/FileUploadSystem.Infrastructure.deps.json
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/bin/Debug/net8.0/FileUploadSystem.Infrastructure.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/bin/Debug/net8.0/FileUploadSystem.Infrastructure.pdb
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/FileUploadSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/FileUploadSystem.Infrastructure.AssemblyInfoInputs.cache
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/FileUploadSystem.Infrastructure.AssemblyInfo.cs
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/FileUploadSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/FileUploadSystem.Infrastructure.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/refint/FileUploadSystem.Infrastructure.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/FileUploadSystem.Infrastructure.pdb
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/ref/FileUploadSystem.Infrastructure.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/FileUploadSystem.Infrastructure.csproj.AssemblyReference.cache
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Infrastructure/obj/Debug/net8.0/FileUploadSystem.Infrastructure.csproj.CopyComplete

@@ -1,0 +1,14 @@
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/bin/Debug/net8.0/FileUploadSystem.Domain.deps.json
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/bin/Debug/net8.0/FileUploadSystem.Domain.runtimeconfig.json
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/bin/Debug/net8.0/FileUploadSystem.Domain.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/bin/Debug/net8.0/FileUploadSystem.Domain.pdb
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/FileUploadSystem.Domain.csproj.AssemblyReference.cache
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/FileUploadSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/FileUploadSystem.Domain.AssemblyInfoInputs.cache
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/FileUploadSystem.Domain.AssemblyInfo.cs
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/FileUploadSystem.Domain.csproj.CoreCompileInputs.cache
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/FileUploadSystem.Domain.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/refint/FileUploadSystem.Domain.dll
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/FileUploadSystem.Domain.pdb
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/FileUploadSystem.Domain.genruntimeconfig.cache
+/Users/ebruadiguzel/RiderProjects/FileUploadSystem/FileUploadSystem.Domain/obj/Debug/net8.0/ref/FileUploadSystem.Domain.dll
